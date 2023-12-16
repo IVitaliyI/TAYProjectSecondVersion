@@ -13,20 +13,16 @@ J = m * l^2 / 3;
 Angle = 0;
 Vel = 0;
 
-
-%% High level controller
-k_i = 1;
-k_p = 1;
-k_d = 1;
-
-
-%% Low level controller
-parallel_correct = 7.7988e+05;
-
-
 %% Curent sensor
 R_cur = 0.01;
 
+%% Low Level Controller
+posled_correc = 8.2491; % posled_correc = 1; after sintez
+
+%% High Level Controller
+k_p = 1;
+k_d = 1;
+k_s = 1;
 
 %% Power gain
 gain_pw = 24 / 3.3;
