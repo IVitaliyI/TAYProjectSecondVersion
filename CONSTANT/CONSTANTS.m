@@ -1,6 +1,7 @@
 % /////// CONSTANTS \\\\\\\\
-load("Linerize\LinerizaeZero.mat")
-load("Linerize\LinerizePiSlesh2.mat")
+load("Linerize\LinerizaeZero.mat");
+load("Linerize\LinerizePiSlesh2.mat");
+load("Linerize\LinerizePiSlesh6.mat");
 m = .1; 
 M = .2;
 L = .5;
