@@ -1,7 +1,7 @@
 
 
 %% Input data
-ReqAngle = pi / 2;
+ReqAngle = 0;
 ReqVel = 0;
 
 %% High Level Controller

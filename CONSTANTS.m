@@ -1,8 +1,4 @@
 % /////// CONSTANTS \\\\\\\\
-clc
-clear all
-
-
 load("Linerize\LinerizaeZero.mat")
 load("Linerize\LinerizePiSlesh2.mat")
 m = .1; 
