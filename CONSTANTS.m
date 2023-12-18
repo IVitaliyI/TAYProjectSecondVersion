@@ -1,4 +1,10 @@
 % /////// CONSTANTS \\\\\\\\
+clc
+clear all
+
+
+load("Linerize\LinerizaeZero.mat")
+load("Linerize\LinerizePiSlesh2.mat")
 m = .1; 
 M = .2;
 L = .5;
@@ -9,20 +15,11 @@ l = 1;
 J = m * l^2 / 3;
 
 
-%% Input data
-Angle = 0;
-Vel = 0;
-
 %% Curent sensor
 R_cur = 0.01;
 
 %% Low Level Controller
 posled_correc = 8.2491; % posled_correc = 1; after sintez
-
-%% High Level Controller
-k_p = 1;
-k_d = 1;
-k_s = 1;
 
 %% Power gain
 gain_pw = 24 / 3.3;
