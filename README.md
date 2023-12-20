@@ -7,7 +7,7 @@ _____
 
 _____
 
-<h3 font-style="italic">Realization rate: 102 %</h3>
+<h3 font-style="italic">Realization rate: 127 %</h3>
 <h3 font-style="italic">Final goal: 187 %</h3>
 
 _____
@@ -21,12 +21,12 @@ Hall sensor (Rotor speed and acceleration sensors)). </li>
     <li> Synthesis of Low level controller. </li>
     <li> Synthesis of High level controller.</li>
     <li> Whole system test. </li>
+    <li> Add non-linear elements in models. </li>
 </ul>
 
 
 <h3><b>In process:</b></h3>
 <ul>
-    <li> Add non-linear elements in models. </li>
     <li> Investigation of the possibility of setting an arbitrary pendulum position. </li>
 </ul>
 
