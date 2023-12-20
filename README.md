@@ -3,7 +3,7 @@ Final project for the course of Linear Theory of automatic control
 Authors: Davydov V., Sadovets R., Nessans E.
 _____
 <h3 font-weight="bold"> Main branch for 2023a matlab version. If you are using earlier versions, use branches containing your version in the name!!!</h3>
-<h3 font-weight="bold">For quick start run System.slxc file<h3>
+<h3 font-weight="bold">For quick start run TAYProjectSecondVersion.prj file<h3>
 
 _____
 
